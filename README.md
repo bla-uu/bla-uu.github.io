@@ -1,1 +1,1 @@
-# bla-uu.github.io
+# Welcome to Blaine's GDAD site! =]
