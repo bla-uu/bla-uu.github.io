@@ -1,36 +1,42 @@
 ---
-title: "Page Title"
+title: "bla-uu's portfolio"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
+  overlay_color: "#FFFFFF"
   overlay_filter: "0.5"
   overlay_image: /assets/images/placeholder.png
   actions:
-    - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+    - label: "github link"
+      url: "https://github.com/bla-uu"
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "welcome to bla-uu's portfolio site, make yourself comfortable."
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'projects of note'
 feature_row:
   - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "image 1"
+    title: "project 1"
+    excerpt: "project^1^"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 4"
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "image 2"
+    title: "project 2"
+    excerpt: "project^2^"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/placeholder.png
+    alt: "image 3"
+    title: "project 3"
+    excerpt: "project^3^"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
